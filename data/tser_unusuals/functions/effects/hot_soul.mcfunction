@@ -1,0 +1,1 @@
+execute at @s anchored eyes run particle minecraft:soul_fire_flame ^ ^.5 ^ .005 0 .005 .03 2 force @a[tag=Unusual]

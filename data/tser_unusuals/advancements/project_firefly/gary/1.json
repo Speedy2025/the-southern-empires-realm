@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "title": "A Simple Prank...",
+    "description": "Hey, that poisoned potato wasn't in my pocket before!",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:thrown_item_picked_up_by_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:player"
+        },
+        "item": {
+          "items": [
+            "minecraft:poisonous_potato"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/gary/1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_axe"
+    },
+    "title": "Netherite",
+    "description": "Break another netherite axe",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "tser_main:unbreakable_series/axe/diamond2",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": {
+          "max": 0
+        },
+        "item": {
+          "items": [
+            "minecraft:netherite_axe"
+          ]
+        }
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/unbreakable/axe/netherite2"
+  }
+}

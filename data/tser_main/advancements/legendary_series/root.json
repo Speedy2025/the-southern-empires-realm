@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_sword",
+      "nbt": "{Enchantments:[{id:\"unbreaking\",lvl:5}]}"
+    },
+    "title": "Project Moonlight",
+    "description": "Step forth and shine your light in the dark.",
+    "frame": "task",
+    "background": "minecraft:textures/block/netherite_block.png",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/legendary/root"
+  }
+}

@@ -1,0 +1,3 @@
+tellraw @a[tag=tse.target] ["",{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"},{"text":" Panda ","color":"green"},{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"}]
+tellraw @a[tag=tse.target] ["",{"text":"Main Gene: ","color":"gold"},{"nbt":"MainGene","entity":"@s"}]
+tellraw @a[tag=tse.target] ["",{"text":"Hidden Gene: ","color":"gold"},{"nbt":"HiddenGene","entity":"@s"}]

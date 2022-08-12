@@ -1,0 +1,2 @@
+execute at @s anchored feet run particle minecraft:composter ^ ^1 ^ .2 .5 .2 .02 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:happy_villager ^ ^.3 ^ .2 0 .2 .1 1 force @a[tag=Unusual]

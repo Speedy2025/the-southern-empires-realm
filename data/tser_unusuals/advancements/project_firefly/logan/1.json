@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ancient_debris"
+    },
+    "title": "The Aftermath",
+    "description": "Have 64 ancient debris in your inventory",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:ancient_debris"
+            ],
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/logan/1"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:bad_day,display:{color:11035392,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Bad Day\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:fresh_shower,display:{color:6123250,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Fresh Shower\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:radio_signal,display:{color:8781798,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Radio Signal\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:hot_head,display:{color:16742144,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Hot Head\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:in_love,display:{color:16671473,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: In Love\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:lucky,display:{color:56070,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Lucky\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:bubbling,display:{color:9173503,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Bubbling\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:snowed_in,display:{color:16777215,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Snowed In\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:nerdy,display:{color:9671571,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Nerdy\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:cursed_flames,display:{color:5701774,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Cursed Flames\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:bleeding,display:{color:16711680,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Bleeding\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:corrupted,display:{color:0,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Corrupted\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:good_day,display:{color:8059535,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Good Day\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:the_unknown,display:{color:7237230,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: The Unknown\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:conductive,display:{color:15404032,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Conductive\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:colorful,display:{color:2294005,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Colorful\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:horns,display:{color:12632005,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Horns\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:magical_aura,display:{color:4984209,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Magical Aura\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:oversight_aura,display:{color:60358,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Oversight Aura\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:flowers,display:{color:9960872,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Flowers\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:spiders,display:{color:3223857,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Spiders\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:sparkles,display:{color:9492223,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Sparkles\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unusual:hot_soul,display:{color:2138821,Name:'{\"text\":\"Unusual Leather Helmet\",\"color\":\"dark_purple\",\"italic\":false}',Lore:['{\"text\":\"Unusual Effect: Hot Soul\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"\"}','{\"text\":\"Protection V\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Watermade V\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{id:\"protection\",lvl:5},{id:\"respiration\",lvl:10},{id:\"aqua_affinity\",lvl:5}],Unbreakable:1,HideFlags:1,RepairCost:1000000}"
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        }
+      ]
+    }
+  ]
+}

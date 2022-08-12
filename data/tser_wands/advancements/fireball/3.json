@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lava_bucket"
+    },
+    "title": "A Hot Topic",
+    "description": "Step inside a lava block",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:fireball/2",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:lava"
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/fireball/3"
+  }
+}

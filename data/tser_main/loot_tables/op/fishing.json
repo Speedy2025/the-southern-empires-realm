@@ -1,0 +1,64 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 100,
+          "quality": -20,
+          "name": "minecraft:gameplay/fishing/junk"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "conditions": [
+            {
+              "condition": "minecraft:entity_properties",
+              "predicate": {
+                "type_specific": {
+                  "type": "fishing_hook",
+                  "in_open_water": true
+                }
+              },
+              "entity": "this"
+            }
+          ],
+          "weight": 1,
+          "quality": 5,
+          "name": "tser_main:hats"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "conditions": [
+            {
+              "condition": "minecraft:entity_properties",
+              "predicate": {
+                "type_specific": {
+                  "type": "fishing_hook",
+                  "in_open_water": true
+                }
+              },
+              "entity": "this"
+            }
+          ],
+          "weight": 25,
+          "quality": 15,
+          "name": "tser_main:op_books"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 850,
+          "quality": -25,
+          "name": "minecraft:gameplay/fishing/fish"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 50,
+          "quality": 20,
+          "name": "minecraft:gameplay/fishing/treasure"
+        }
+      ]
+    }
+  ]
+}

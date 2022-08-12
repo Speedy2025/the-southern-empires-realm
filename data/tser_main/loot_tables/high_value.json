@@ -1,0 +1,84 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "gray_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag: {Items: [{Slot: 0b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 1b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 2b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 3b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 4b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 5b, id: \"minecraft:sand\", Count: 64b}, {Slot: 6b, id: \"minecraft:sand\", Count: 64b}, {Slot: 7b, id: \"minecraft:sand\", Count: 64b}, {Slot: 8b, id: \"minecraft:sand\", Count: 64b}, {Slot: 9b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 10b, id: \"minecraft:sand\", Count: 64b}, {Slot: 11b, id: \"minecraft:sand\", Count: 64b}, {Slot: 12b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 14b, id: \"minecraft:sand\", Count: 64b}, {Slot: 15b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 16b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 17b, id: \"minecraft:sand\", Count: 64b}, {Slot: 18b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 19b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 20b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 21b, id: \"minecraft:gravel\", Count: 64b}, {Slot: 22b, id: \"minecraft:sand\", Count: 64b}, {Slot: 23b, id: \"minecraft:sand\", Count: 64b}, {Slot: 24b, id: \"minecraft:sand\", Count: 64b}, {Slot: 25b, id: \"minecraft:sand\", Count: 64b}, {Slot: 26b, id: \"minecraft:sand\", Count: 64b}]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "red_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag: {Items: [{Slot: 0b, id: \"minecraft:sticky_piston\", Count: 16b}, {Slot: 1b, id: \"minecraft:piston\", Count: 16b}, {Slot: 3b, id: \"minecraft:dispenser\", Count: 8b}, {Slot: 4b, id: \"minecraft:observer\", Count: 16b}, {Slot: 5b, id: \"minecraft:dropper\", Count: 16b}, {Slot: 7b, id: \"minecraft:repeater\", Count: 16b}, {Slot: 8b, id: \"minecraft:comparator\", Count: 8b}, {Slot: 9b, id: \"minecraft:slime_block\", Count: 16b}, {Slot: 10b, id: \"minecraft:honey_block\", Count: 16b}, {Slot: 12b, id: \"minecraft:hopper\", Count: 64b}, {Slot: 13b, id: \"minecraft:redstone_lamp\", Count: 32b}, {Slot: 14b, id: \"minecraft:chest\", Count: 16b}, {Slot: 16b, id: \"minecraft:redstone\", Count: 64b}, {Slot: 17b, id: \"minecraft:redstone\", Count: 64b}, {Slot: 18b, id: \"minecraft:target\", Count: 8b}, {Slot: 19b, id: \"minecraft:note_block\", Count: 32b}, {Slot: 21b, id: \"minecraft:powered_rail\", Count: 32b}, {Slot: 23b, id: \"minecraft:rail\", Count: 64b}, {Slot: 25b, id: \"minecraft:redstone_torch\", Count: 64b}, {Slot: 26b, id: \"minecraft:redstone_block\", Count: 16b}]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_gray_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag:{Items:[{Slot:4b,id:\"minecraft:iron_ingot\",Count:1b},{Slot:12b,id:\"minecraft:iron_block\",Count:64b},{Slot:13b,id:\"minecraft:beacon\",Count:1b},{Slot:14b,id:\"minecraft:iron_block\",Count:64b},{Slot:22b,id:\"minecraft:iron_block\",Count:36b}]},display:{Name:'{\"text\":\"Beacon Box\"}'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "yellow_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag: {Items: [{Slot: 0b, id: \"minecraft:glass_bottle\", Count: 64b}, {Slot: 1b, id: \"minecraft:scute\", Count: 60b}, {Slot: 2b, id: \"minecraft:gunpowder\", Count: 64b}, {Slot: 6b, id: \"minecraft:redstone\", Count: 64b}, {Slot: 7b, id: \"minecraft:pufferfish\", Count: 12b}, {Slot: 8b, id: \"minecraft:glass_bottle\", Count: 64b}, {Slot: 9b, id: \"minecraft:glass_bottle\", Count: 64b}, {Slot: 10b, id: \"minecraft:dragon_breath\", Count: 64b}, {Slot: 11b, id: \"minecraft:dragon_breath\", Count: 64b}, {Slot: 13b, id: \"minecraft:brewing_stand\", Count: 1b}, {Slot: 15b, id: \"minecraft:dragon_breath\", Count: 64b}, {Slot: 16b, id: \"minecraft:dragon_breath\", Count: 64b}, {Slot: 17b, id: \"minecraft:glass_bottle\", Count: 64b}, {Slot: 18b, id: \"minecraft:glass_bottle\", Count: 64b}, {Slot: 19b, id: \"minecraft:fermented_spider_eye\", Count: 12b}, {Slot: 20b, id: \"minecraft:glowstone_dust\", Count: 64b}, {Slot: 24b, id: \"minecraft:blaze_powder\", Count: 64b}, {Slot: 25b, id: \"minecraft:golden_carrot\", Count: 12b}, {Slot: 26b, id: \"minecraft:glass_bottle\", Count: 64b}]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag: {Items: [{Slot: 0b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 1b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 2b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 3b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 4b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 5b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 6b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 7b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 8b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 9b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 10b, id: \"minecraft:water_bucket\", Count: 1b}, {Slot: 11b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 12b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 13b, id: \"minecraft:heart_of_the_sea\", Count: 1b}, {Slot: 14b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 15b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 16b, id: \"minecraft:water_bucket\", Count: 1b}, {Slot: 17b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 18b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 19b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 20b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 21b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 22b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 23b, id: \"minecraft:nautilus_shell\", Count: 1b}, {Slot: 24b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 25b, id: \"minecraft:prismarine\", Count: 4b}, {Slot: 26b, id: \"minecraft:prismarine\", Count: 4b}]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "shulker_shell",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 10,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:music_disc"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:charms"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:banner_pattern"
+        }
+      ]
+    }
+  ]
+}

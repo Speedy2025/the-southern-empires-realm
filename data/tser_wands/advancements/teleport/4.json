@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:2000002}"
+    },
+    "title": "The Wand of Teleportation",
+    "description": "You completed all of the advancements and unlocked the Teleportation Wand!",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "tser_wands:teleport/3",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:impossible"
+    },
+    "2": {
+      "trigger": "minecraft:impossible"
+    },
+    "3": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/teleport/4"
+  }
+}

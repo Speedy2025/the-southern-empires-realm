@@ -1,0 +1,32 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:shulker_box"
+      },
+      "title": "Beyond the Clouds",
+      "description": "Fly upwards at least 1500 blocks",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+  },
+  "parent": "tser_wands:levitation/2",
+  "criteria": {
+      "1": {
+          "trigger": "minecraft:location",
+          "conditions": {
+              "player": {
+                  "location": {
+                      "position": {
+                          "y": {
+                              "min": 1500
+                          }
+                      }
+                  }
+              }
+          }
+      }
+  },
+  "rewards": {
+      "function": "tser_wands:advancements/levitation/3"
+  }
+}

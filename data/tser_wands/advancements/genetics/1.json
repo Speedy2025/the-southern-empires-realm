@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:saddle"
+    },
+    "title": "Horsin' Around",
+    "description": "Breed any two horses together",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:horse"
+        },
+        "partner": {
+          "type": "minecraft:horse"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/genetics/1"
+  }
+}

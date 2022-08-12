@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:fire_charge"
+    },
+    "title": "Mobile Fireball Dispenser",
+    "description": "Craft a fireball by putting a fire charge in the crafting grid and taking the book",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:fireball/1",
+  "criteria": {
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/fireball/2"
+  }
+}

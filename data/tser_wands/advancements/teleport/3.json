@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "title": "Dimensional Teleportation",
+    "description": "Enter the overworld side of an end portal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:teleport/2",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": {
+          "location": {
+            "dimension": "minecraft:overworld"
+          }
+        },
+        "block": "minecraft:end_portal"
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/teleport/3"
+  }
+}

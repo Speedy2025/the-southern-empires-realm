@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_axe"
+    },
+    "title": "Iron",
+    "description": "Break another iron axe",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "tser_main:unbreakable_series/axe/stone2",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": {
+          "max": 0
+        },
+        "item": {
+          "items": [
+            "minecraft:iron_axe"
+          ]
+        }
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/unbreakable/axe/iron2"
+  }
+}

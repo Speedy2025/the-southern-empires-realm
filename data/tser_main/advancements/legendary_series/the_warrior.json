@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_sword",
+      "nbt": "{Enchantments:[{id:\"sharpness\",lvl:10}]}"
+    },
+    "title": "The Warrior",
+    "description": "Dare to grow stronger than all others before you",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "tser_main:legendary_series/trial_by_fire",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/legendary/the_warrior"
+  }
+}

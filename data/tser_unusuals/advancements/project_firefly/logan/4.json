@@ -1,0 +1,34 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:enchanted_golden_apple"
+      },
+      "title": "The Conclusion",
+      "description": "Fly beyond Y -5000",
+      "show_toast": false,
+      "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/logan/3",
+  "criteria": {
+      "1": {
+          "trigger": "minecraft:location",
+          "conditions": {
+              "player": {
+                  "location": {
+                      "position": {
+                          "y": {
+                              "max": -5000
+                          }
+                      }
+                  }
+              }
+          }
+      },
+      "i": {
+          "trigger": "minecraft:impossible"
+      }
+  },
+  "rewards": {
+      "function": "tser_unusuals:project_firefly/logan/4"
+  }
+}

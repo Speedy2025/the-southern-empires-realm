@@ -1,0 +1,1 @@
+effect give @s[scores={tse_sneakTime=40..}] jump_boost 1 9

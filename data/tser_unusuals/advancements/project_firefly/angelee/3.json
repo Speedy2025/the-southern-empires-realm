@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:pink_tulip"
+    },
+    "title": "Hey, you!",
+    "description": "Be a cool person!",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/angelee/2",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:tick"
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/angelee/3"
+  }
+}

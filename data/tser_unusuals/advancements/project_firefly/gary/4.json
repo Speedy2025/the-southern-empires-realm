@@ -1,0 +1,51 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stick",
+      "nbt": "{Enchantments:[{id:\"sharpness\",lvl:10}]}"
+    },
+    "title": "Skilled Thief",
+    "description": "Kill someone with a stick that you (un)rightfully stole.",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/gary/3",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:player",
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:stick"
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:player"
+            }
+          }
+        ]
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/gary/4"
+  }
+}

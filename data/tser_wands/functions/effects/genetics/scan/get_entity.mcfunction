@@ -1,0 +1,9 @@
+execute if entity @s[type=minecraft:horse] run function tser_wands:effects/genetics/scan/horse
+execute if entity @s[type=minecraft:donkey] run function tser_wands:effects/genetics/scan/donkey
+execute if entity @s[type=minecraft:mule] run function tser_wands:effects/genetics/scan/mule
+execute if entity @s[type=minecraft:skeleton_horse] run function tser_wands:effects/genetics/scan/skeleton_horse
+execute if entity @s[type=minecraft:zombie_horse] run function tser_wands:effects/genetics/scan/zombie_horse
+execute if entity @s[type=minecraft:goat] run function tser_wands:effects/genetics/scan/goat
+execute if entity @s[type=minecraft:panda] run function tser_wands:effects/genetics/scan/panda
+execute if entity @s[type=minecraft:villager] run function tser_wands:effects/genetics/scan/villager
+execute if entity @s[type=minecraft:frog] run function tser_wands:effects/genetics/scan/frog

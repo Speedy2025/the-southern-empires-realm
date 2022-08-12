@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ancient_debris",
+      "nbt": "{Enchantments:[{id:\"sharpness\",lvl:10}]}"
+    },
+    "title": "Trial by Fire",
+    "description": "Place 64 ancient debris in your offhand (consumed on completion)",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_main:legendary_series/root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "offhand": {
+                  "items": [
+                    "minecraft:ancient_debris"
+                  ],
+                  "count": 64
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/legendary/trial_by_fire"
+  }
+}

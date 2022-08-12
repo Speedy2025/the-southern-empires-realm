@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shield"
+    },
+    "title": "Shield",
+    "description": "Break a shield",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "tser_main:unbreakable_series/root",
+  "criteria": {
+    "e": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": {
+          "max": 0
+        },
+        "item": {
+          "items": [
+            "minecraft:shield"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/unbreakable/misc/shield"
+  }
+}

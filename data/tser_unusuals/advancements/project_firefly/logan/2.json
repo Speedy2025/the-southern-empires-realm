@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wither_rose"
+    },
+    "title": "The Quest Begins",
+    "description": "Obtain a single wither rose",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/logan/1",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "count": {
+              "min": 1
+            },
+            "items": [
+              "minecraft:wither_rose"
+            ]
+          }
+        ]
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/logan/2"
+  }
+}

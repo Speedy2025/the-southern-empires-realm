@@ -1,0 +1,33 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:snowball"
+      },
+      "title": "Flight 777",
+      "description": "Be under the effects of levitation",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+  },
+  "parent": "tser_wands:levitation/1",
+  "criteria": {
+      "1": {
+          "trigger": "minecraft:effects_changed",
+          "conditions": {
+              "effects": {
+                  "minecraft:levitation": {
+                      "amplifier": {
+                          "min": 0
+                      },
+                      "duration": {
+                          "min": 0
+                      }
+                  }
+              }
+          }
+      }
+  },
+  "rewards": {
+      "function": "tser_wands:advancements/levitation/2"
+  }
+}

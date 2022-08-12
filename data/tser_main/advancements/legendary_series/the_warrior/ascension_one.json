@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:feather",
+      "nbt": "{Enchantments:[{id:\"sharpness\",lvl:10}]}"
+    },
+    "title": "Ascension 1",
+    "description": "Begin your ascent into greatness.",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_main:legendary_series/the_warrior/out_of_control",
+  "criteria": {
+    "i": {
+      "trigger": "impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/legendary/the_warrior/ascension_one"
+  }
+}

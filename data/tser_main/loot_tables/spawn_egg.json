@@ -1,0 +1,146 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:spawner"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "blaze_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "cat_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "cave_spider_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "chicken_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "cow_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "creeper_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "fox_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "horse_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "llama_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "magma_cube_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "mooshroom_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "ocelot_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "panda_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "parrot_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "bee_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "squid_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "glow_squid_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "pig_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "piglin_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "rabbit_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "sheep_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "skeleton_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "slime_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "spider_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "axolotl_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "strider_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "villager_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "witch_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "wolf_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "zombie_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "zombified_piglin_spawn_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "goat_spawn_egg"
+				}
+			]
+		}
+	]
+}

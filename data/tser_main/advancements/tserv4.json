@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": "The Southern Empires Realm v4 (TSERv4)",
+		"description": "The Ultimate Server-Running Datapack for your OP+ needs and desires!",
+		"icon": {
+			"item": "minecraft:netherite_sword",
+			"nbt": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10}]}"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "global:speedy2025",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

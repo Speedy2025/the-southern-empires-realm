@@ -1,0 +1,4 @@
+execute if score @s tse_OntimeDays matches 0..5 run give @s chest{BlockEntityTag:{LootTable:"tser_main:8hourchest_a"},display:{Name:'{"text":"Loot Box","color":"red","italic":false}',Lore:['{"text":"Thank you for playing!","color":"white","italic":false}']}}
+execute if score @s tse_OntimeDays matches 6..10 run give @s chest{BlockEntityTag:{LootTable:"tser_main:8hourchest_b"},display:{Name:'{"text":"Loot Box","color":"red","italic":false}',Lore:['{"text":"Thank you for continuously playing!","color":"white","italic":false}']}}
+execute if score @s tse_OntimeDays matches 11.. run give @s chest{BlockEntityTag:{LootTable:"tser_main:8hourchest_c"},display:{Name:'{"text":"Loot Box","color":"red","italic":false}',Lore:['{"text":"Thank you for your extraordinary support!","color":"white","italic":false}']}}
+tellraw @s ["",{"text":"[Loot] ","color":"green"},{"text":"You've recieved a loot box!"}]

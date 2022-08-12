@@ -1,0 +1,1 @@
+execute at @s anchored eyes run particle minecraft:note ^ ^.3 ^ .1 0 .1 1 1 force @a[tag=Unusual]

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:emerald"
+    },
+    "title": "A Great Idea",
+    "description": "Cure a zombie villager for discounts",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:cured_zombie_villager"
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/james/1"
+  }
+}

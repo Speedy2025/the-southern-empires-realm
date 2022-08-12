@@ -1,0 +1,3 @@
+tellraw @a[tag=tse.target] ["",{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"},{"text":" Goat ","color":"green"},{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"}]
+execute if entity @s[nbt={IsScreamingGoat:1b}] run tellraw @a[tag=tse.target] ["",{"text":"Screaming: ","color":"gold"},{"text":"true","color":"green"}]
+execute unless entity @s[nbt={IsScreamingGoat:1b}] run tellraw @a[tag=tse.target] ["",{"text":"Screaming: ","color":"gold"},{"text":"false","color":"red"}]

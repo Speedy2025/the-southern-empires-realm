@@ -1,0 +1,7 @@
+#VillagerData.type VillagerData.profession VillagerData.level Brain.memories."minecraft:job_site".value.pos
+
+tellraw @a[tag=tse.target] ["",{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"},{"text":" Villager","color":"green"},{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"}]
+tellraw @a[tag=tse.target] ["",{"text":"Villager Type: ","color":"gold"},{"nbt":"VillagerData.type","entity":"@s"}]
+tellraw @a[tag=tse.target] ["",{"text":"Profession: ","color":"gold"},{"nbt":"VillagerData.profession","entity":"@s"},{"text":" "},{"nbt":"VillagerData.level","entity":"@s"}]
+tellraw @a[tag=tse.target] ["",{"text":"Workstation: ","color":"gold"},{"nbt":"Brain.memories.\"minecraft:job_site\".value.pos[0]","entity":"@s"},{"text":" "},{"nbt":"Brain.memories.\"minecraft:job_site\".value.pos[1]","entity":"@s"},{"text":" "},{"nbt":"Brain.memories.\"minecraft:job_site\".value.pos[2]","entity":"@s"}]
+tellraw @a[tag=tse.target] ["",{"text":"Home: ","color":"gold"},{"nbt":"Brain.memories.\"minecraft:home\".value.pos[0]","entity":"@s"},{"text":" "},{"nbt":"Brain.memories.\"minecraft:home\".value.pos[1]","entity":"@s"},{"text":" "},{"nbt":"Brain.memories.\"minecraft:home\".value.pos[2]","entity":"@s"}]

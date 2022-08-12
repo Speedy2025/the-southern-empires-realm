@@ -1,0 +1,28 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:potion"
+      },
+      "title": "An odd presence",
+      "description": "Find a witch hut",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+  },
+  "parent": "tser_wands:slime/1",
+  "criteria": {
+      "1": {
+          "trigger": "minecraft:location",
+          "conditions": {
+              "player": {
+                  "location": {
+                      "structure": "minecraft:swamp_hut"
+                  }
+              }
+          }
+      }
+  },
+  "rewards": {
+      "function": "tser_wands:advancements/slime/2"
+  }
+}

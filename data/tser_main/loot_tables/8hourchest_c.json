@@ -1,0 +1,52 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:spawn_egg"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:op_books"
+        }
+      ]
+    },
+    {
+      "rolls": 6,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:op_books"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:high_value"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:materials"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:hats"
+        }
+      ]
+    }
+  ]
+}

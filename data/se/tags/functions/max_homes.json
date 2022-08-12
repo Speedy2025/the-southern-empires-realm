@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"se:home/misc/max_homes",
+        "tser_main:operations/homes/modify"
+	]
+}

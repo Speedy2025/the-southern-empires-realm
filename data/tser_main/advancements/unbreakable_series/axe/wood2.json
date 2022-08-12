@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wooden_axe"
+    },
+    "title": "Wood",
+    "description": "Break another wooden axe",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "tser_main:unbreakable_series/axe/netherite",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": {
+          "max": 0
+        },
+        "item": {
+          "items": [
+            "minecraft:wooden_axe"
+          ]
+        }
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/unbreakable/axe/wood2"
+  }
+}

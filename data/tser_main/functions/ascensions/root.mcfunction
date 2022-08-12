@@ -1,0 +1,7 @@
+execute if score @s tse_ascCooldown matches 1.. run tellraw @s ["",{"text":"[TSE] ","color":"green"},{"text":"Your energy must recover from your previous attempt...","italic":true}]
+execute as @s[advancements={tser_main:legendary_series/the_warrior/ascension_one=false}] unless score @s tse_ascCooldown matches 1.. run function tser_main:ascensions/one
+execute as @s[advancements={tser_main:legendary_series/the_warrior/ascension_one=true,tser_main:legendary_series/the_warrior/ascension_two=false}] unless score @s tse_ascCooldown matches 1.. run function tser_main:ascensions/two
+execute as @s[advancements={tser_main:legendary_series/the_warrior/ascension_two=true,tser_main:legendary_series/the_warrior/ascension_three=false}] unless score @s tse_ascCooldown matches 1.. run function tser_main:ascensions/three
+execute as @s[advancements={tser_main:legendary_series/the_warrior/ascension_three=true,tser_main:legendary_series/the_warrior/ascension_four=false}] unless score @s tse_ascCooldown matches 1.. run tellraw @a ["<",{"selector":"@s"},{"text":"> Hey Speedy, can you hurry up and make the next ascension?"}]
+execute as @s[advancements={tser_main:legendary_series/the_warrior/ascension_four=true}] unless score @s tse_ascCooldown matches 1.. run tellraw @a ["<",{"selector":"@s"},{"text":"> Hey Speedy, can you hurry up and make the next ascension?"}]
+#tellraw @s ["",{"text":"Sorry, the ascensions have been temporarily disabled due to serious lag :("}]

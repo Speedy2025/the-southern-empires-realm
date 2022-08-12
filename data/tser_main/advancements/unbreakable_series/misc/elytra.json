@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:elytra"
+    },
+    "title": "Elytra",
+    "description": "Get a pair of elytra down to one durability",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "tser_main:unbreakable_series/misc/shield",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": 1,
+        "item": {
+          "items": [
+            "minecraft:elytra"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/unbreakable/misc/elytra"
+  }
+}

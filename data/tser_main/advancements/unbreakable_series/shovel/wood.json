@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "title": "Wood",
+    "description": "Break a wooden shovel",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "tser_main:unbreakable_series/root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": {
+          "max": 0
+        },
+        "item": {
+          "items": [
+            "minecraft:wooden_shovel"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_main:advancements/unbreakable/shovel/wood"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:elytra",
+      "nbt": "{Enchantments:[{id:\"unbreaking\",lvl:5}]}"
+    },
+    "title": "Project Firefly",
+    "description": "Let your wings carry your light forever further",
+    "frame": "task",
+    "background": "minecraft:textures/block/coal_block.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+execute at @s anchored eyes run particle minecraft:angry_villager ^ ^.3 ^ .2 0 .2 1 1 force @a[tag=Unusual]

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "tser_main:crafting_table/totem_of_allay"
+        }
+      }
+    },
+    "rewards": {
+      "function": "tser_main:operations/totem_of_allay/give"
+    }
+  }
+  

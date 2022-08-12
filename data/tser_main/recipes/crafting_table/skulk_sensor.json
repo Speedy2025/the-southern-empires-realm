@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "t t",
+        "eee",
+        "EEE"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:end_stone"
+        },
+        "e": {
+            "item": "minecraft:ender_pearl"
+        },
+        "t": {
+            "item": "minecraft:twisting_vines"
+        }
+    },
+    "result": {
+        "item": "minecraft:sculk_sensor",
+        "count": 2
+    }
+}

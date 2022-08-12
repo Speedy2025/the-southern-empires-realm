@@ -1,0 +1,2 @@
+execute as @e[type=arrow,tag=!tse.tether.invalid] run function tser_enchantments:tether/validate
+execute as @e[tag=tse.tether.valid,nbt={inGround:1b}] at @s run function tser_enchantments:tether/summon_field

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_block",
+      "nbt": "{Enchantments:[{id:\"sharpness\",lvl:1}]}"
+    },
+    "title": "The Pointless Grind",
+    "description": "Holy Cow, 16 NETHERITE BLOCKS?!",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/james/3",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "count": {
+              "min": 16
+            },
+            "items": [
+              "minecraft:netherite_block"
+            ]
+          }
+        ]
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/james/4"
+  }
+}

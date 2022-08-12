@@ -1,0 +1,1 @@
+execute at @s anchored eyes run particle minecraft:entity_effect ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]

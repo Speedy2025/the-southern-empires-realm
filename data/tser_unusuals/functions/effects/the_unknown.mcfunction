@@ -1,0 +1,1 @@
+execute at @s anchored eyes run particle minecraft:mycelium ~ ~1 ~ .3 .5 .3 1 5 force @a[tag=Unusual]

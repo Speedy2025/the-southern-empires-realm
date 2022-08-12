@@ -1,0 +1,12 @@
+[
+    {
+      "function": "minecraft:set_lore",
+      "entity": "this",
+      "replace": true,
+      "lore": [{
+          "nbt": "Inventory[{Slot: -106b}].tag.pages[0]",
+          "entity": "@s",
+          "interpret": true
+      }]
+    }
+  ]

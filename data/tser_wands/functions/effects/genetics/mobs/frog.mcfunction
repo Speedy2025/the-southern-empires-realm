@@ -1,0 +1,2 @@
+tellraw @a[tag=tse.target] ["",{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"},{"text":" Frog ","color":"green"},{"text":" \u0020 \u0020 \u0020 \u0020","strikethrough":true,"color":"blue"}]
+tellraw @a[tag=tse.target] ["",{"text":"Frog Type: ","color":"gold"},{"nbt":"variant","entity":"@s"}]

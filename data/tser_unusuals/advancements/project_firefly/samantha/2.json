@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone_block"
+    },
+    "title": "Aspiring Redstoner",
+    "description": "Collect a shulker box of redstone blocks",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/samantha/1",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{BlockEntityTag: {Items: [{Slot: 0b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 1b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 2b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 3b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 4b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 5b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 6b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 7b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 8b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 9b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 10b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 11b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 12b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 13b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 14b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 15b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 16b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 17b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 18b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 19b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 20b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 21b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 22b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 23b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 24b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 25b, id: \"minecraft:redstone_block\", Count: 64b}, {Slot: 26b, id: \"minecraft:redstone_block\", Count: 64b}]}}"
+          }
+        ]
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/samantha/2"
+  }
+}

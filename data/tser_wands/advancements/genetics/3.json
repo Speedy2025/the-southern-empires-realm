@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_carrot"
+    },
+    "title": "The Mule Who'll Rule",
+    "description": "Breed a mule with a horse and a donkey and interact with it.",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:genetics/2",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:mule"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/genetics/3"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chest",
+      "nbt": "{Enchantments:[{id:\"unbreaking\",lvl:5}]}"
+    },
+    "title": "Looted!",
+    "description": "Crack open an unopened ontime loot box",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "tser_unusuals:project_firefly/gary/1",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tser_main:8hourchest_a"
+      }
+    },
+    "2": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tser_main:8hourchest_b"
+      }
+    },
+    "3": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "tser_main:8hourchest_c"
+      }
+    },
+    "i": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "3",
+      "2",
+      "1"
+    ],
+    [
+      "i"
+    ]
+  ],
+  "rewards": {
+    "function": "tser_unusuals:project_firefly/gary/2"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:farmland"
+    },
+    "title": "A Simple Life",
+    "description": "Grow any of the four basic crops: wheat, carrots, potatos, or beetroots",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:wheat_seeds",
+            "minecraft:carrot",
+            "minecraft:potato",
+            "minecraft:beetroot_seeds"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/farm/1"
+  }
+}

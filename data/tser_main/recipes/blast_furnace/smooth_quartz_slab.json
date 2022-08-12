@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:quartz_slab"
+    },
+    "result": "minecraft:smooth_quartz_slab",
+    "experience": 0.1,
+    "cookingtime": 100
+}

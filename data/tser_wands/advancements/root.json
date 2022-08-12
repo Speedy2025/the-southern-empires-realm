@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:book",
+      "nbt": "{Enchantments:[{id:\"minecraft:lure\",lvl:5}]}"
+    },
+    "background": "minecraft:textures/block/amethyst_block.png",
+    "title": "Project Sunset",
+    "description": "One final piece of happiness before the dark arrives.",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "t": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

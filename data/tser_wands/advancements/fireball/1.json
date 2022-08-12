@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "title": "Essence of Flame",
+    "description": "Kill something with fire aspect or flame",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "is_fire": true
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/fireball/1"
+  }
+}

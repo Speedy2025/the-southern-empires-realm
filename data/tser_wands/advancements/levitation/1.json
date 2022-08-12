@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shulker_box"
+    },
+    "title": "The Essense of Levitation",
+    "description": "Kill a shulker",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "tser_wands:root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:shulker"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tser_wands:advancements/levitation/1"
+  }
+}

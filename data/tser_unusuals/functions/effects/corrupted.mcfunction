@@ -1,0 +1,1 @@
+execute at @s anchored feet run particle minecraft:falling_dust minecraft:black_wool ~ ~1 ~ .2 .5 .2 0 1 force @a[tag=Unusual]

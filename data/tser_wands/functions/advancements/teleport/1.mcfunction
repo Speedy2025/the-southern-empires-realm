@@ -1,0 +1,1 @@
+advancement grant @s only tser_wands:teleport/4 1

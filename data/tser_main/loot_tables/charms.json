@@ -1,0 +1,79 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Featherweight Charm\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Verified Charm\",\"color\":\"gray\",\"italic\":false}']},AttributeModifiers:[{AttributeName:\"generic.movement_speed\",Name:\"\",Slot:\"offhand\",Amount:0.30,Operation:2,UUID:[I;1085744189,1015833826,1080927425,1049021466]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Health Charm\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Verified Charm\",\"color\":\"gray\",\"italic\":false}']},AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"\",Slot:\"offhand\",Amount:0.50,Operation:2,UUID:[I;1085744189,1015833826,1080927425,1049021466]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Strength Charm\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Verified Charm\",\"color\":\"gray\",\"italic\":false}']},AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Name:\"\",Slot:\"offhand\",Amount:0.25,Operation:2,UUID:[I;1085744189,1015833826,1080927425,1049021466]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Heavyweight Charm\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Verified Charm\",\"color\":\"gray\",\"italic\":false}']},AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"\",Slot:\"offhand\",Amount:100,Operation:0,UUID:[I;1085744189,1015833826,1080927425,1049021466]},{AttributeName:\"generic.movement_speed\",Name:\"\",Slot:\"offhand\",Amount:-0.05,Operation:2,UUID:[I;1085744189,1015833826,1080927425,1049021566]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Barrier Charm\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Verified Charm\",\"color\":\"gray\",\"italic\":false}']},AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"\",Slot:\"offhand\",Amount:10,Operation:0,UUID:[I;1085744189,1015833826,1080927425,1049021466]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Haste Charm\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Verified Charm\",\"color\":\"gray\",\"italic\":false}']},AttributeModifiers:[{AttributeName:\"generic.attack_speed\",Name:\"\",Slot:\"offhand\",Amount:0.25,Operation:2,UUID:[I;1085744189,1015833826,1080927425,1049021466]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Haste Charm\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Verified Charm\",\"color\":\"gray\",\"italic\":false}']},AttributeModifiers:[{AttributeName:\"generic.attack_speed\",Name:\"\",Slot:\"offhand\",Amount:0.25,Operation:2,UUID:[I;1085744189,1015833826,1080927425,1049021466]}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

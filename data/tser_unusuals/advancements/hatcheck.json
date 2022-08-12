@@ -1,0 +1,15 @@
+{
+  "rewards": {
+    "function": "tser_unusuals:gethat"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+execute at @s anchored feet run particle minecraft:heart ^ ^.25 ^ .3 .001 .3 .021 1 force @a[tag=Unusual]

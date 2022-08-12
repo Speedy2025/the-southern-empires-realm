@@ -1,0 +1,24 @@
+{
+    "values": [
+        "#minecraft:wool_carpets",
+        "#minecraft:impermeable",
+        "#minecraft:walls",
+        "minecraft:cobweb",
+        "minecraft:chest",
+        "minecraft:trapped_chest",
+        "#minecraft:doors",
+        "minecraft:repeater",
+        "minecraft:comparator",
+        "#minecraft:trapdoors",
+        "#minecraft:fences",
+        "#minecraft:beds",
+        "minecraft:water",
+        "minecraft:lava",
+        "#minecraft:leaves",
+        "minecraft:bamboo",
+        "minecraft:composter",
+        "minecraft:stonecutter",
+        "minecraft:chain",
+        "minecraft:ender_chest"
+    ]
+}

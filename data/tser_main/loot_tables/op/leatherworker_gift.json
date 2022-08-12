@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather",
+          "weight": 99
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tser_main:hats"
+        }
+      ]
+    }
+  ]
+}

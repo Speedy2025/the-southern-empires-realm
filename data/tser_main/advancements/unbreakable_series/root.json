@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_pickaxe",
+      "nbt": "{Enchantments:[{id:\"unbreaking\",lvl:5}]}"
+    },
+    "title": "The Unbreakable Series",
+    "description": "A step forward for some",
+    "frame": "task",
+    "background": "minecraft:textures/block/gold_block.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
