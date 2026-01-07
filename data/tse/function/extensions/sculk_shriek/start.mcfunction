@@ -1,0 +1,2 @@
+execute if predicate tse:sculk_shrieker/valid run function tse:extensions/sculk_shriek/modify
+execute unless predicate tse:sculk_shrieker/valid run tellraw @s ["",{text:"[Tools] ",color:"green"},{text:"You must be holding a sculk shrieker in your mainhand to activate it."}]

@@ -1,0 +1,30 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "mainhand": {
+          "items": "minecraft:totem_of_undying",
+          "components": {
+            "minecraft:custom_data": {
+              "tse:totem_of_allay": true
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type_specific": {
+        "type": "minecraft:player",
+        "input": {
+          "sneak": true
+        }
+      }
+    }
+  }
+]

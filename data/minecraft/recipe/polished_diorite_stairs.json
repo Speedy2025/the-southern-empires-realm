@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rock_stairs",
+  "category": "building",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:polished_diorite"
+    ]
+  },
+  "result": {
+    "id": "minecraft:polished_diorite_stairs",
+    "count": 6
+  }
+}

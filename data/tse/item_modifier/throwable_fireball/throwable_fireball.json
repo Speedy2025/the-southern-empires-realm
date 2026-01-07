@@ -1,0 +1,27 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:item_name": {
+        "text": "Throwable Fireball",
+        "color": "green",
+        "italic": false
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 0,
+        "animation": "none",
+        "sound": "minecraft:item.firecharge.use",
+        "has_consume_particles": false,
+        "on_consume_effects": []
+      },
+      "minecraft:custom_data": {
+        "tse:disable_enchants": true,
+        "tse:throwable": true
+      },
+      "minecraft:use_cooldown": {
+        "seconds": 0.1
+      }
+    }
+  }
+]

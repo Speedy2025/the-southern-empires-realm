@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "minecraft:saddle",
+      "minecraft:leather"
+  ],
+  "result": {
+    "id": "minecraft:leather_horse_armor",
+    "count": 1
+  }
+}

@@ -1,1 +1,0 @@
-give @s enchanted_book{StoredEnchantments:[{id:"tser:tether",lvl: 1}],display:{Lore:['{"text":"Tether","color":"gray","italic":false}']}}

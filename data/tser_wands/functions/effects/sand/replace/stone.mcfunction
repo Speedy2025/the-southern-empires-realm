@@ -1,1 +1,0 @@
-fill ~-2 ~-2 ~-2 ~2 ~2 ~2 stone replace sand

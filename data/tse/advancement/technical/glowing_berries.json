@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "eat": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:glow_berries"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tse:extensions/glow/berries"
+  },
+  "sends_telemetry_event": false
+}

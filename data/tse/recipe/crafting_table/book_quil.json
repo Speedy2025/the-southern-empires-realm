@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      "minecraft:book",
+      "minecraft:feather",
+      "minecraft:black_dye"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:writable_book",
+    "count": 1
+  }
+}

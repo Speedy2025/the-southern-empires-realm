@@ -1,2 +1,0 @@
-advancement revoke @s from tser_main:unbreakable_series/hoe/iron
-advancement grant @s only tser_main:unbreakable_series/hoe/iron i

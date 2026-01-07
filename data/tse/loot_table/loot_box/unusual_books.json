@@ -1,0 +1,2089 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Fresh Shower"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Fresh Shower"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Hot Head"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Hot Head"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "In Love"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "In Love"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Lucky"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Lucky"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Bubbling"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Bubbling"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Snowed In"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Snowed In"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Nerdy"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Nerdy"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Cursed Flames"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Cursed Flames"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Bleeding"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Bleeding"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Corrupted"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Corrupted"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Bad Day"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Bad Day"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Good Day"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Good Day"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "The Unknown"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "The Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Conductive"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Conductive"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Colorful"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Colorful"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Horns"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Horns"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Magical Aura"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Magical Aura"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Oversight Aura"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Oversight Aura"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Hot Soul"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Hot Soul"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Memory: Cheerfulness"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Memory: Cheerfulness"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Memory: Wrath"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Memory: Wrath"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Memory: Brilliance"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Memory: Brilliance"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Memory: Despair"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Memory: Despair"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Memory: Wisdom"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Memory: Wisdom"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Memory: Determination"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Memory: Determination"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Flowers"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Flowers"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Spiders"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Spiders"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Sparkles"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Sparkles"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Radio Signal"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Radio Signal"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Lovely Start"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Lovely Start"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Falling Leaves"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Falling Leaves"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Fall"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Fall"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},
+                  {
+                    "text": "Effect: ",
+                    "color": "gold"
+                  },
+                  {
+                    "text": "Firefly"
+                  }
+                ],
+                [""],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "A book with a mystical effect..."
+                  }
+                ],
+                [
+                  {
+                    "text": "",
+                    "color": "white",
+                    "italic": false
+                  },
+                  {
+                    "text": "Put it on a helmet using "
+                  },
+                  {
+                    "text": "offhand enchant",
+                    "color": "gold"
+                  }
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Unusual Book",
+                  "color": "dark_purple",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": {
+                "tse:unusual": "Firefly"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

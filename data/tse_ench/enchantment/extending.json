@@ -1,0 +1,50 @@
+{
+  "description": {
+    "text": "Extending"
+  },
+  "supported_items": "#minecraft:enchantable/mining",
+  "primary_items": "#minecraft:enchantable/mining",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 20
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "attribute": "minecraft:block_interaction_range",
+        "id": "tse_ench:extending",
+        "amount": {
+          "type": "minecraft:clamped",
+          "value": {
+            "type": "minecraft:linear",
+            "base": 1,
+            "per_level_above_first": 1
+          },
+          "min": 1,
+          "max": 3
+        },
+        "operation": "add_value"
+      }
+    ],
+    "minecraft:post_attack": [
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "tse_ench:enchantment/extending/start"
+        },
+        "enchanted": "attacker",
+        "affected": "attacker"
+      }
+    ]
+  }
+}

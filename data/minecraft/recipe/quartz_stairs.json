@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "quartz_stairs",
+  "category": "building",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:quartz_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:quartz_stairs",
+    "count": 6
+  }
+}

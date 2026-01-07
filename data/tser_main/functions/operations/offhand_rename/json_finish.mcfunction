@@ -1,1 +1,0 @@
-item modify entity @s weapon.mainhand tser_main:apply_name

@@ -1,0 +1,7 @@
+# Throw Error Messages
+execute if entity @s[predicate=!tse:offhand_enchant/has_book] run tellraw @s ["",{text:"[Offhand Enchant]",color:"green"},{text:" You need to supply an enchanted book in your offhand."}]
+execute if entity @s[predicate=tse:offhand_enchant/has_book,predicate=!tse:offhand_enchant/has_item] run tellraw @s ["",{text:"[Offhand Enchant]",color:"green"},{text:" You need to supply an item to enchant in your mainhand."}]
+execute if entity @s[predicate=tse:offhand_enchant/enchantable,predicate=tse:offhand_enchant/invalid_item] run tellraw @s ["",{text:"[Offhand Enchant]",color:"green"},{text:" That item cannot be enchanted."}]
+# Continue to XP validation and then merging if OK
+execute if entity @s[predicate=tse:offhand_enchant/enchantable] if data entity @s equipment.offhand.components."minecraft:custom_data"."tse:unusual" run function tse:extensions/offhand/enchant/apply_unusual
+execute if entity @s[predicate=tse:offhand_enchant/enchantable,predicate=!tse:offhand_enchant/invalid_item] unless data entity @s equipment.offhand.components."minecraft:custom_data"."tse:unusual" if function tse:extensions/offhand/enchant/xp/validate/root run function tse:extensions/offhand/enchant/apply with storage tse:offhand item

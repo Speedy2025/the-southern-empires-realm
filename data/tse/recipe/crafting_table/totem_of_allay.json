@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dCd",
+    "fTf",
+    "dId"
+  ],
+  "key": {
+    "T": "minecraft:totem_of_undying",
+    "I": "minecraft:netherite_ingot",
+    "d": "minecraft:diamond",
+    "f": "minecraft:feather",
+    "C": "minecraft:chest"
+  },
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "components": {
+      "minecraft:custom_data": {
+        "tse:totem_of_allay": true
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:item_name": {
+        "text": "Totem of Allay",
+        "color": "green",
+        "bold": false,
+        "italic": false
+      },
+      "minecraft:lore": [{
+        "text": "Summons an allay when held and sneaking.",
+        "color": "white",
+        "italic": false
+      }]
+    },
+    "count": 1
+  }
+}

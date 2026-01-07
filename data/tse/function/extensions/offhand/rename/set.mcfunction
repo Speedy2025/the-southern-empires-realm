@@ -1,0 +1,2 @@
+execute if predicate tse:offhand_rename/is_valid run function tse:extensions/offhand/rename/stage
+execute unless predicate tse:offhand_rename/is_valid run tellraw @s ["",{text:"[Offhand Rename]",color:"green"},{text:" You must place a "},{text:"signed book",color:"gold"},{text:" in your "},{text:"offhand",color:"gold"},{text:" and an item in your "},{text:"mainhand",color:"gold"},"."]

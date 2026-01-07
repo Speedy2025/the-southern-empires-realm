@@ -1,0 +1,2125 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_gray_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:sand",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:gravel",
+                      "count": 64
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Concrete Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:redstone_block",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:redstone",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:redstone",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:redstone_torch",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:comparator",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:repeater",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:stone_pressure_plate",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:lever",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:stone_button",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:hopper",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:daylight_detector",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:cauldron",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:composter",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:chest",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:piston",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:sticky_piston",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:slime_block",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:honey_block",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:observer",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:crafter",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:dropper",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:dispenser",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:target",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:note_block",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:rail",
+                      "count": 32
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:powered_rail",
+                      "count": 32
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:sculk_sensor",
+                      "count": 8
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Redstone Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gray_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:beacon",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:iron_block",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:iron_block",
+                      "count": 36
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:iron_block",
+                      "count": 64
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Beacon Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cyan_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 5
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:sea_lantern",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 5
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:sea_lantern",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:sea_lantern",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:conduit",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:sea_lantern",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:sea_lantern",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 5
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:sea_lantern",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:prismarine",
+                      "count": 5
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Conduit Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_blue_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:reinforced_deepslate",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:reinforced_deepslate",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:fire_charge",
+                      "count": 14,
+                      "components": {
+                        "minecraft:use_cooldown": {
+                          "seconds": 0.1
+                        },
+                        "minecraft:custom_data": {
+                          "tse:throwable": true,
+                          "tse:disable_enchants": true
+                        },
+                        "minecraft:enchantment_glint_override": true,
+                        "minecraft:item_name": {
+                          "italic": false,
+                          "color": "green",
+                          "text": "Throwable Fireball"
+                        },
+                        "minecraft:consumable": {
+                          "consume_seconds": 0,
+                          "sound": "minecraft:item.firecharge.use",
+                          "has_consume_particles": false,
+                          "animation": "none"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:fire_charge",
+                      "count": 24,
+                      "components": {
+                        "minecraft:use_cooldown": {
+                          "seconds": 0.1
+                        },
+                        "minecraft:custom_data": {
+                          "tse:throwable": true,
+                          "tse:disable_enchants": true
+                        },
+                        "minecraft:enchantment_glint_override": true,
+                        "minecraft:item_name": {
+                          "italic": false,
+                          "color": "green",
+                          "text": "Throwable Fireball"
+                        },
+                        "minecraft:consumable": {
+                          "consume_seconds": 0,
+                          "sound": "minecraft:item.firecharge.use",
+                          "has_consume_particles": false,
+                          "animation": "none"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:fire_charge",
+                      "count": 14,
+                      "components": {
+                        "minecraft:use_cooldown": {
+                          "seconds": 0.1
+                        },
+                        "minecraft:custom_data": {
+                          "tse:throwable": true,
+                          "tse:disable_enchants": true
+                        },
+                        "minecraft:enchantment_glint_override": true,
+                        "minecraft:item_name": {
+                          "italic": false,
+                          "color": "green",
+                          "text": "Throwable Fireball"
+                        },
+                        "minecraft:consumable": {
+                          "consume_seconds": 0,
+                          "sound": "minecraft:item.firecharge.use",
+                          "has_consume_particles": false,
+                          "animation": "none"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:reinforced_deepslate",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:reinforced_deepslate",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64,
+                      "components": {
+                        "minecraft:fireworks": {
+                          "flight_duration": 3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:enchanted_book",
+                      "count": 1,
+                      "components": {
+                        "minecraft:lore": [
+                          {
+                            "italic": false,
+                            "extra": [
+                              "An unusually powerful enchanted book..."
+                            ],
+                            "color": "white",
+                            "text": ""
+                          },
+                          "",
+                          {
+                            "italic": false,
+                            "extra": [
+                              "Must be added to your item using ",
+                              {
+                                "color": "gold",
+                                "text": "offhand enchant"
+                              },
+                              "."
+                            ],
+                            "color": "white",
+                            "text": ""
+                          }
+                        ],
+                        "minecraft:custom_name": {
+                          "italic": true,
+                          "color": "aqua",
+                          "text": "High-Power Enchanted Book"
+                        },
+                        "minecraft:stored_enchantments": {
+                          "tse_ench:extending": 3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:glow_berries",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:enchanted_book",
+                      "count": 1,
+                      "components": {
+                        "minecraft:lore": [
+                          {
+                            "italic": false,
+                            "extra": [
+                              "An unusually powerful enchanted book..."
+                            ],
+                            "color": "white",
+                            "text": ""
+                          },
+                          "",
+                          {
+                            "italic": false,
+                            "extra": [
+                              "Must be added to your item using ",
+                              {
+                                "color": "gold",
+                                "text": "offhand enchant"
+                              },
+                              "."
+                            ],
+                            "color": "white",
+                            "text": ""
+                          }
+                        ],
+                        "minecraft:custom_name": {
+                          "italic": true,
+                          "color": "aqua",
+                          "text": "High-Power Enchanted Book"
+                        },
+                        "minecraft:stored_enchantments": {
+                          "tse_ench:decay": 3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64,
+                      "components": {
+                        "minecraft:fireworks": {
+                          "flight_duration": 3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:reinforced_deepslate",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:fire_charge",
+                      "count": 12,
+                      "components": {
+                        "minecraft:use_cooldown": {
+                          "seconds": 0.1
+                        },
+                        "minecraft:custom_data": {
+                          "tse:throwable": true,
+                          "tse:disable_enchants": true
+                        },
+                        "minecraft:enchantment_glint_override": true,
+                        "minecraft:item_name": {
+                          "italic": false,
+                          "color": "green",
+                          "text": "Throwable Fireball"
+                        },
+                        "minecraft:consumable": {
+                          "consume_seconds": 0,
+                          "sound": "minecraft:item.firecharge.use",
+                          "has_consume_particles": false,
+                          "animation": "none"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:netherite_block",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:reinforced_deepslate",
+                      "count": 1
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Server Sampler Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pink_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:red_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:orange_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:yellow_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:lime_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:pink_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:black_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:white_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:brown_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:light_gray_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:gray_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:green_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:magenta_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:purple_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:blue_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:light_blue_dye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:cyan_dye",
+                      "count": 16
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Chromatic Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:orange_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:sugar",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:fermented_spider_eye",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:rabbit_foot",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:blaze_powder",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:brewing_stand",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:glistering_melon_slice",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:spider_eye",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:ghast_tear",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:magma_cream",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:pufferfish",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:golden_carrot",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:turtle_scute",
+                      "count": 40
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:phantom_membrane",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:dragon_breath",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:breeze_rod",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:cobweb",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:slime_block",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:stone",
+                      "count": 8
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:glowstone_dust",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:blaze_powder",
+                      "count": 32
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:nether_wart",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:glass_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:glass_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:glass_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:nether_wart",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:blaze_powder",
+                      "count": 32
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:redstone",
+                      "count": 16
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Alchemy Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:oak_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:spruce_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:birch_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:jungle_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:acacia_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:dark_oak_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:mangrove_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:cherry_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:pale_oak_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:oak_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:spruce_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:birch_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:jungle_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:acacia_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:dark_oak_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:mangrove_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:cherry_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:pale_oak_log",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:warped_stem",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:warped_stem",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:crimson_stem",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:crimson_stem",
+                      "count": 64
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Woodcutter Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:purple_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:anvil",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:bookshelf",
+                      "count": 16
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:grindstone",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:enchanting_table",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 64
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Enchanter Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 0,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 1,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 2,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 3,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 4,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 5,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 6,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 7,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 8,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 9,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 10,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 11,
+                    "item": {
+                      "id": "minecraft:enchanted_book",
+                      "count": 1,
+                      "components": {
+                        "minecraft:stored_enchantments": {
+                          "minecraft:unbreaking": 3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 12,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 40
+                    }
+                  },
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:elytra",
+                      "count": 1
+                    }
+                  },
+                  {
+                    "slot": 14,
+                    "item": {
+                      "id": "minecraft:experience_bottle",
+                      "count": 40
+                    }
+                  },
+                  {
+                    "slot": 15,
+                    "item": {
+                      "id": "minecraft:enchanted_book",
+                      "count": 1,
+                      "components": {
+                        "minecraft:stored_enchantments": {
+                          "minecraft:mending": 1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "slot": 16,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 17,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 18,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 19,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 20,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 21,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 22,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 23,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 24,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 25,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  },
+                  {
+                    "slot": 26,
+                    "item": {
+                      "id": "minecraft:firework_rocket",
+                      "count": 64
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Skyline Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gray_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:container": [
+                  {
+                    "slot": 13,
+                    "item": {
+                      "id": "minecraft:pink_bundle",
+                      "count": 1,
+                      "components": {
+                        "minecraft:bundle_contents": [
+                          {
+                            "id": "minecraft:magenta_bundle",
+                            "count": 1,
+                            "components": {
+                              "minecraft:bundle_contents": [
+                                {
+                                  "id": "minecraft:purple_bundle",
+                                  "count": 1,
+                                  "components": {
+                                    "minecraft:bundle_contents": [
+                                      {
+                                        "id": "minecraft:blue_bundle",
+                                        "count": 1,
+                                        "components": {
+                                          "minecraft:bundle_contents": [
+                                            {
+                                              "id": "minecraft:light_blue_bundle",
+                                              "count": 1,
+                                              "components": {
+                                                "minecraft:bundle_contents": [
+                                                  {
+                                                    "id": "minecraft:cyan_bundle",
+                                                    "count": 1,
+                                                    "components": {
+                                                      "minecraft:bundle_contents": [
+                                                        {
+                                                          "id": "minecraft:green_bundle",
+                                                          "count": 1,
+                                                          "components": {
+                                                            "minecraft:bundle_contents": [
+                                                              {
+                                                                "id": "minecraft:lime_bundle",
+                                                                "count": 1,
+                                                                "components": {
+                                                                  "minecraft:bundle_contents": [
+                                                                    {
+                                                                      "id": "minecraft:yellow_bundle",
+                                                                      "count": 1,
+                                                                      "components": {
+                                                                        "minecraft:bundle_contents": [
+                                                                          {
+                                                                            "id": "minecraft:orange_bundle",
+                                                                            "count": 1,
+                                                                            "components": {
+                                                                              "minecraft:bundle_contents": [
+                                                                                {
+                                                                                  "id": "minecraft:red_bundle",
+                                                                                  "count": 1,
+                                                                                  "components": {
+                                                                                    "minecraft:bundle_contents": [
+                                                                                      {
+                                                                                        "id": "minecraft:brown_bundle",
+                                                                                        "count": 1,
+                                                                                        "components": {
+                                                                                          "minecraft:bundle_contents": [
+                                                                                            {
+                                                                                              "id": "minecraft:black_bundle",
+                                                                                              "count": 1,
+                                                                                              "components": {
+                                                                                                "minecraft:bundle_contents": [
+                                                                                                  {
+                                                                                                    "id": "minecraft:gray_bundle",
+                                                                                                    "count": 1,
+                                                                                                    "components": {
+                                                                                                      "minecraft:bundle_contents": [
+                                                                                                        {
+                                                                                                          "id": "minecraft:light_gray_bundle",
+                                                                                                          "count": 1,
+                                                                                                          "components": {
+                                                                                                            "minecraft:bundle_contents": [
+                                                                                                              {
+                                                                                                                "id": "minecraft:white_bundle",
+                                                                                                                "count": 1,
+                                                                                                                "components": {
+                                                                                                                  "minecraft:bundle_contents": [
+                                                                                                                    {
+                                                                                                                      "id": "minecraft:bundle",
+                                                                                                                      "count": 1
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              }
+                                                                                                            ]
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  }
+                                                                                                ]
+                                                                                              }
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      }
+                                                                                    ]
+                                                                                  }
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              }
+                                                            ]
+                                                          }
+                                                        }
+                                                      ]
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "minecraft:custom_name": {
+                  "text": "Bundle Box Box",
+                  "color": "white",
+                  "italic": false
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

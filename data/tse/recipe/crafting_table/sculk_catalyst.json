@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T T",
+    "EEE",
+    "MMM"
+  ],
+  "key": {
+    "T": "minecraft:twisting_vines",
+    "E": "minecraft:ender_pearl",
+    "M": "minecraft:end_stone"
+  },
+  "result": {
+    "id": "minecraft:sculk_catalyst",
+    "count": 1
+  }
+}

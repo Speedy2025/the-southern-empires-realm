@@ -1,0 +1,5 @@
+execute if predicate tse:offhand_enchant/has_item unless predicate tse:offhand_enchant/invalid_item run function tse:extensions/offhand/enchant/xp/validate/root
+execute if predicate tse:offhand_enchant/has_item unless predicate tse:offhand_enchant/invalid_item if score #tse_ench_cost tse_ench matches 1 run tellraw @s ["",{text:"[Offhand Enchant]",color:"green"},{text:" This item will cost "},{score:{name:"#tse_ench_cost",objective:"tse_ench"},color:"gold"},{text:" levels",color:"gold"}]
+execute if predicate tse:offhand_enchant/has_item unless predicate tse:offhand_enchant/invalid_item unless score #tse_ench_cost tse_ench matches 1 run tellraw @s ["",{text:"[Offhand Enchant]",color:"green"},{text:" This item will cost "},{score:{name:"#tse_ench_cost",objective:"tse_ench"},color:"gold"},{text:" levels",color:"gold"}]
+execute if predicate tse:offhand_enchant/has_item if predicate tse:offhand_enchant/invalid_item run tellraw @s ["",{text:"[Offhand Enchant]",color:"green"},{text:" You cannot enchant this item."}]
+execute unless predicate tse:offhand_enchant/has_item run tellraw @s ["",{text:"[Offhand Enchant]",color:"green"},{text:" You cannot enchant nothing."}]

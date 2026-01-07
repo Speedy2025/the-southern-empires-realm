@@ -1,0 +1,3 @@
+execute at @s anchored feet unless block ~ ~-1 ~ air if block ~ ~-.1 ~ minecraft:air run particle minecraft:dust{color:[0.5, 0.5, 0.5],scale:1} ~ ~ ~ .2 0 .2 0 10 force @a[tag=Unusual]
+execute at @s anchored feet unless block ~ ~-.2 ~ minecraft:air run particle minecraft:falling_dust{block_state:{Name:"minecraft:redstone_block"}} ~ ~ ~ .5 0 .5 0 1 force @a[tag=Unusual]
+execute at @s anchored feet unless block ~ ~-.2 ~ minecraft:air run particle minecraft:dust{color:[1, 0, 0], scale:0.5} ~ ~ ~ .75 0 .75 0 5 force @a[tag=Unusual]

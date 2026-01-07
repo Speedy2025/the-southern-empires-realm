@@ -1,0 +1,2 @@
+execute if data entity @s SelectedItem.components."minecraft:custom_data"."tse:unusual" run function tse:extensions/offhand/lore/set/with_unusual
+execute unless data entity @s SelectedItem.components."minecraft:custom_data"."tse:unusual" run function tse:extensions/offhand/lore/set/without_unusual

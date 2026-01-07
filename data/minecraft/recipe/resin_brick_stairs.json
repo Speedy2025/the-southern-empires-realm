@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "resin_brick_stairs",
+  "category": "building",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:resin_bricks"
+    ]
+  },
+  "result": {
+    "id": "minecraft:resin_brick_stairs",
+    "count": 6
+  }
+}

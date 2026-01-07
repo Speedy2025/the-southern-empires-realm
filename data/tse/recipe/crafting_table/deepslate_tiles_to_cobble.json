@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+  ],
+  "result": {
+    "id": "minecraft:cobbled_deepslate",
+    "count": 4
+  }
+}

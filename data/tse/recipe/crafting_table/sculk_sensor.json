@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T T",
+    "ERE",
+    "MMM"
+  ],
+  "key": {
+    "T": "minecraft:twisting_vines",
+    "E": "minecraft:ender_pearl",
+    "R": "minecraft:redstone",
+    "M": "minecraft:moss_block"
+  },
+  "result": {
+    "id": "minecraft:sculk_sensor",
+    "count": 1
+  }
+}

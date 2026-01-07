@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DHD",
+    " A ",
+    "   "
+  ],
+  "key": {
+    "D": "minecraft:big_dripleaf",
+    "H": "minecraft:hanging_roots",
+    "A": "minecraft:allium"
+  },
+  "result": {
+    "id": "minecraft:spore_blossom",
+    "count": 2
+  }
+}
