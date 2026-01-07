@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 9,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "tse:loot_box/enchanted_books"
+        }
+      ]
+    }
+  ]
+}

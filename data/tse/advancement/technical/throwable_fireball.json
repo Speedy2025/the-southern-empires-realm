@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "throw": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:fire_charge"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tse:extensions/throwable_fireball/start"
+  },
+  "sends_telemetry_event": false
+}

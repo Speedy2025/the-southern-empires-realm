@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    " D ",
+    " D "
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "D": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft:trident",
+    "count": 1
+  }
+}

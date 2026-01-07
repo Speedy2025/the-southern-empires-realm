@@ -1,0 +1,1416 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:lunge": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "tse_ench:decay": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "tse_ench:extending": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:bane_of_arthropods": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:blast_protection": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:breach": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:density": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:depth_strider": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:efficiency": 6
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:feather_falling": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:fire_aspect": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:fire_protection": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:multishot": 2
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:fortune": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:frost_walker": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:impaling": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:knockback": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:looting": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:loyalty": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:luck_of_the_sea": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:lure": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:piercing": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:power": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:projectile_protection": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:protection": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:punch": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:quick_charge": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:respiration": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:riptide": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:smite": 10
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:soul_speed": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sweeping_edge": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:swift_sneak": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:thorns": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                [
+                  {"text":"","color":"white","italic":false},{"text":"An unusually powerful enchanted book..."}
+                ],
+                [
+                  {"text":""}
+                ],
+                [
+                  {"text":"","color":"white","italic":false},{"text":"Must be added to your item using "},{"text": "offhand enchant","color":"gold"},{"text":"."}
+                ]
+              ],
+              "mode": "insert"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "High-Power Enchanted Book",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:wind_burst": 5
+              },
+              "add": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

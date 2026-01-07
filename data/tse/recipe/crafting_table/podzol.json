@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "#minecraft:leaves"
+  ],
+  "result": {
+    "id": "minecraft:podzol",
+    "count": 3
+  }
+}

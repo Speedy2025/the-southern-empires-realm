@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#S#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:redstone",
+    "S": "minecraft:shroomlight"
+  },
+  "result": {
+    "id": "minecraft:redstone_lamp",
+    "count": 1
+  }
+}

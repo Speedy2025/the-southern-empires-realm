@@ -1,0 +1,24 @@
+{
+  "condition": "minecraft:inverted",
+  "term": {
+    "entity": "this",
+    "condition": "minecraft:entity_properties",
+    "predicate": {
+      "equipment": {
+        "mainhand": {
+          "items": "#minecraft:enchantable/mining",
+          "predicates": {
+            "minecraft:enchantments": [
+              {
+                "enchantments": "tse_ench:extending",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

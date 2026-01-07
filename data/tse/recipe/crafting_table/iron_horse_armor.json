@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "minecraft:saddle",
+      "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_horse_armor",
+    "count": 1
+  }
+}

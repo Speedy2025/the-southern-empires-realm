@@ -1,0 +1,9 @@
+{
+  "function": "minecraft:set_name",
+  "entity": "this",
+  "name": {
+    "entity": "@s",
+    "nbt": "equipment.offhand.components.\"minecraft:written_book_content\".pages[0].raw",
+    "interpret": true
+  }
+}

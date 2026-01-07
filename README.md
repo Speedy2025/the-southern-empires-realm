@@ -1,9 +1,4 @@
-# The Southern Empires Realm v4
+# The Southern Empire's Realm
+*Version 5*
 
-"In the end, the Empire Fell of neglect."
-
-This is an archival repository for my datapack, TSERv4. The repository likely won't be updated much.
-
-This work is All Rights Reserved. I am providing it for viewing and inspiration for others as my server has been put to rest.
-
-We will always miss you, TSE.
+> Although her people were destroyed and their castle was claimed, our great empire rose from the ashes to dominate the world.

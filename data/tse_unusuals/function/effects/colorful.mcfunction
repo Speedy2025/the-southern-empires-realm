@@ -1,0 +1,8 @@
+execute at @s anchored eyes run particle minecraft:dust{color:[1, 0, 1],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:dust{color:[0, 1, 1],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:dust{color:[0, 0, 1],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:dust{color:[1, 1, 1],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:dust{color:[1, 1, 0],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:dust{color:[1, 0, 0],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:dust{color:[1, 1, 1],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]
+execute at @s anchored eyes run particle minecraft:dust{color:[0, 1, 0],scale:0.5} ^ ^.3 ^ .2 0 .2 5 1 force @a[tag=Unusual]

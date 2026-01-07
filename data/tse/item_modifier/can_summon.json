@@ -1,0 +1,30 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:block_state": {
+      "can_summon": "true"
+    },
+    "minecraft:custom_name": {
+      "text": "Enabled Sculk Shrieker",
+      "italic": false
+    },
+    "minecraft:lore": [
+      [
+        {
+          "text": "Warden Spawning: ",
+          "color": "gold"
+        },
+        {
+          "text": "Enabled ",
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "text": "Be careful when placing down... ",
+          "color": "gray"
+        }
+      ]
+    ]
+  }
+}

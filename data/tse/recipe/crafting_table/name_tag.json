@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "minecraft:string",
+      "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:name_tag",
+    "count": 1
+  }
+}

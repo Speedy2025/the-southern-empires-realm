@@ -1,0 +1,40 @@
+#
+#------------ [Tools] ------------
+#Offhand: 
+#    [Enchant](?) [Merge](?)
+#    [Rename] [Set Lore] [Append Lore]
+#Life: [Kill] [Spawnpoint]
+#Items:
+#	 [Anti-Binding] [Hat]
+#    [Sculk Shriek]
+#Seed: [Copy Seed]
+#Experience: [Store]
+#------------ [Tools] ------------
+#
+tellraw @s ["",{text:"\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020",color:"gray","strikethrough":true},{text:" [Tools] ",color:"green"},{text:"\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020",color:"gray","strikethrough":true}]
+tellraw @s ["",{text:"Offhand:",color:"gold"}]
+tellraw @s ["",{text:"\u0020\u0020\u0020\u0020\u0020"},{text:"[Enchant]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 2"},hover_event:{action:"show_text",value:["",{text:"OFFHAND ENCHANT",bold:true,color:"green"},{text:"\nAppends the stored enchantments from the book to the item."},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Offhand)",color:"dark_aqua"},{text:" Enchanted Book"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Item to Enchant"},{text:"\n*",color:"gray"},{text:" XP Levels"},{text:"\n\nDon't know how many levels your item requires?",color:"gray",italic:true},{text:"\nClick the ",color:"gray",italic:true},{text:"(?)",color:"dark_green"},{text:" beside the tool.",color:"gray",italic:true}]}},{text:"(?) ",color:"dark_green",click_event:{action:"run_command",command:"/trigger tools set 6"},hover_event:{action:"show_text",value:["",{text:"OFFHAND ENCHANT",bold:true,color:"green"},{text:"\nDon't know how many levels your item needs for Offhand Enchant? Click here!"},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Item to Enchant"}]}}," ",{text:"[Merge]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 8"},hover_event:{action:"show_text",value:["",{text:"OFFHAND MERGE",bold:true,color:"green"},{text:"\nAppends the enchantments from one tool to another."},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Base Item"},{text:"\n* ",color:"gray"},{text:"(In Offhand)",color:"dark_aqua"},{text:" Matching Enchanted Item"},{text:"\n*",color:"gray"},{text:" XP Levels"},{text:"\n\nDon't know how many levels your merge requires?",color:"gray",italic:true},{text:"\nClick the ",color:"gray",italic:true},{text:"(?)",color:"dark_green"},{text:" beside the tool.",color:"gray",italic:true}]}},{text:"(?) ",color:"dark_green",click_event:{action:"run_command",command:"/trigger tools set 9"},hover_event:{action:"show_text",value:["",{text:"OFFHAND MERGE",bold:true,color:"green"},{text:"\nDon't know how many levels your item needs for Offhand Merge? Click here!"},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Base Item"},{text:"\n* ",color:"gray"},{text:"(In Offhand)",color:"dark_aqua"},{text:" Matching Enchanted Item"}]}}]
+tellraw @s ["",{text:"\u0020\u0020\u0020\u0020\u0020"},{text:"[Rename]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 12"},hover_event:{action:"show_text",value:["",{text:"OFFHAND RENAME",bold:true,color:"green"},{text:"\nSets the name of your item to the first page of a signed book - allowing colored and styled names.\n\nUse a tellraw generator to generate it if you don't know how!"},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Offhand)",color:"dark_aqua"},{text:" Signed Book with Text"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Item to Rename"}]}}," ",{text:"[Set Lore]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 13"},hover_event:{action:"show_text",value:["",{text:"OFFHAND LORE - SET",bold:true,color:"green"},{text:"\nSets the lore of your item to the first page of a signed book.\n\nUse a tellraw generator to generate it if you don't know how!"},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Offhand)",color:"dark_aqua"},{text:" Signed Book with Text"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Item to Set Lore Of"}]}}," ",{text:"[Append Lore]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 14"},hover_event:{action:"show_text",value:["",{text:"OFFHAND LORE - APPEND",bold:true,color:"green"},{text:"\nAppends the lore of your item with the first page of a signed book.\n\nUse a tellraw generator to generate it if you don't know how!"},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Offhand)",color:"dark_aqua"},{text:" Signed Book with Text"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Item to Append Lore To"}]}}]
+tellraw @s ["",{text:"Life",color:"gold"},{text:": ",color:"gold"},{text:"[Kill] ",color:"green",click_event:{action:"run_command",command:"/trigger tools set 3"},hover_event:{action:"show_text",value:["",{text:"LIFE - KILL","bold":true,color:"green"},{text:"\nSend your soul screaming back to... your spawnpoint."}]}},{text:"[Spawnpoint]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 4"},hover_event:{action:"show_text",value:["",{text:"LIFE - SPAWNPOINT","bold":true,color:"green"},{text:"\nSet your spawnpoint to your location"}]}}]
+tellraw @s ["",{text:"Items",color:"gold"},{text:":",color:"gold"}]
+tellraw @s ["",{text:"\u0020\u0020\u0020\u0020\u0020"},{text:"[Anti-binding]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 5"},hover_event:{action:"show_text",value:["",{text:"ANTI-BINDING","bold":true,color:"green"},{text:"\nRemoves Curse of Binding from your worn armor"},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(Equipped)",color:"dark_aqua"},{text:" Armor with Curse of Binding"}]}}," ",{text:"[Hat]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 7"},hover_event:{action:"show_text",value:["",{text:"HAT","bold":true,color:"green"},{text:"\nPuts something onto your head."},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(In Mainhand)",color:"dark_aqua"},{text:" Item to Hatify"}]}}]
+tellraw @s ["",{text:"\u0020\u0020\u0020\u0020\u0020"},{text:"[Sculk Shriek]",color:"green",click_event:{action:"run_command",command:"/trigger tools set 11"},hover_event:{action:"show_text",value:["",{text:"SCULK SHRIEK","bold":true,color:"green"},{text:"\nEnables sculk shriekers to summon wardens."},{text:"\nUse at your own risk...",color:"gray",italic:true},{text:"\n\nRequirements",color:"gold"},{text:"\n* ",color:"gray"},{text:"(Mainhand)",color:"dark_aqua"},{text:" Sculk Shriekers"}]}}]
+tellraw @s ["",{text:"Seed: ",color:"gold"},{text:"[Copy Seed]",click_event:{action:"copy_to_clipboard",value:"288420395974265790"},color:"green",hover_event:{action:"show_text",value:["",{text:"COPY SEED","bold":true,color:"green"},{text:"\n288420395974265790"}]}}]
+tellraw @s ["",{text:"Experience",color:"gold"},{text:": ",color:"gold"},{text:"[Store] ",color:"green",click_event:{action:"run_command",command:"/trigger tools set 10"},hover_event:{action:"show_text",value:["",{text:"STORE EXPERIENCE","bold":true,color:"green"},{text:"\nStore your experience in bottles."},{text:"\nMay not return all experience...",color:"gray",italic:true}]}}]
+
+tellraw @s ["",{text:"\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020",color:"gray","strikethrough":true},{text:" [Tools] ",color:"green"},{text:"\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020",color:"gray","strikethrough":true}]
+
+#---[ Tool Guide]---
+# 2 - Offhand Enchant
+# 3 - Kill Self
+# 4 - Set Spawn point
+# 5 - Anti-Bind
+# 6 - Offhand Enchant Cost
+# 7 - Hat
+# 8 - Offhand Merge
+# 9 - Offhand Merge Cost
+# 10 - XP Store
+# 11 - Sculk Shriek
+# 12 - Offhand Rename
+# 13 - Offhand Lore Set
+# 14 - Offhand Lore Append

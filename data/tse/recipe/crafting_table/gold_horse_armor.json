@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "minecraft:saddle",
+      "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:golden_horse_armor",
+    "count": 1
+  }
+}

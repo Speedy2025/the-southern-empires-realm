@@ -1,1 +1,0 @@
-execute at @s anchored feet run particle minecraft:block minecraft:barrier ~ ~1 ~ 0 0 0 0 3 force @a[tag=Unusual]

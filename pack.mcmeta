@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "For the Realm, For the World (Version 4)"
+    "description": "The Empire's Loyal Forces - The Primary Datapack of The Southern Empire",
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 95
   }
 }

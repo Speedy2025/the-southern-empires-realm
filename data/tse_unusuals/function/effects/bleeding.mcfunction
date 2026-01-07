@@ -1,0 +1,1 @@
+execute at @s anchored feet run particle minecraft:block_crumble{block_state:{Name:"minecraft:red_wool"}} ~ ~1 ~ 0.25 0.25 0.25 0 1 force @a[tag=Unusual]

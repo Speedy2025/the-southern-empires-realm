@@ -1,0 +1,21 @@
+{
+  "condition": "minecraft:value_check",
+  "value": {
+    "type": "minecraft:score",
+    "target": {
+      "type": "minecraft:fixed",
+      "name": "#tse_ench_lvl"
+    },
+    "score": "tse_ench"
+  },
+  "range": {
+    "min": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "#tse_ench_cost"
+      },
+      "score": "tse_ench"
+    }
+  }
+}
